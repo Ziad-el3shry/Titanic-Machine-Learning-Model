@@ -27,4 +27,4 @@ Place the downloaded `train.csv` or `titanic.csv` file in the project directory.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Titanic-ML-Project.git](https://github.com/Ziad-el3shry/Titanic-Machine-Learning-Model.git)
+   git clone https://github.com/your-username/Titanic-ML-Project.git](https://github.com/Ziad-el3shry/Titanic-Machine-Learning-Model.git
